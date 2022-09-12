@@ -1,0 +1,35 @@
+body {
+  background-color: aqua;
+  margin-left: 50px;
+}
+.creative {
+  color:red;
+  font-family:cursive;
+  font-size:50px;
+}
+
+.nice {
+  color:green;
+  font-family:Impact, sans-serif;
+  font-size:25px;
+}
+
+#good {
+  color: blue;
+  border:  solid 1px;
+  solid black;
+  background-color: yellow;
+  font-size: 20px;
+  margin:20px;
+
+
+img{
+  padding-top: 35px;
+
+}
+footer {
+  padding: .5em;
+  background-color: #ADA8B6;
+}
+
+
